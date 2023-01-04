@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/jaoafonso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaoafonso&show_icons=true&theme=dark#gh-dark-mode-only"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoafonso&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoafonso&layout=compact&theme=dark#gh-dark-mode-only"/>
 </div>
 
 ## Technologies I use in my daily life
