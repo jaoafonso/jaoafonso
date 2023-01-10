@@ -1,4 +1,4 @@
-## Hi... I'm João Victor, Front and Back-End Developer.
+## Hi... I'm João Victor, Software Engineering Student.
 
 
 <div align="center">
