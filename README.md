@@ -19,10 +19,10 @@
 ##
 
 <div align="center">
-  <a href="https://www.instagram.com/jaoafonsokkj/" onclick="window.open(this.href, '_blank'); return false;"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/jaoafonsokkj/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:devjaoafonso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/devjaoafonso/" onclick="window.open(this.href, '_blank'); return false;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.canva.com/design/DAFSxe9i_RY/mKt_yfOOSVXbd4JudJRhVg/view?utm_content=DAFSxe9i_RY&utm_campaign=designshare&utm_medium=link2&utm_source=s" onclick="window.open(this.href, '_blank'); return false;"><img src="https://img.shields.io/badge/CV-green?style=for-the-badge&logo=canva&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/devjaoafonso/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.canva.com/design/DAFSxe9i_RY/mKt_yfOOSVXbd4JudJRhVg/view?utm_content=DAFSxe9i_RY&utm_campaign=designshare&utm_medium=link2&utm_source=s" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CV-green?style=for-the-badge&logo=canva&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/jaoafonso/jaoafonso/blob/output/github-contribution-grid-snake.svg)
 </div>
