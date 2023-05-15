@@ -1,4 +1,4 @@
-## Hi... I'm João Victor, Software Engineering Student.
+## Olá! Eu sou o João, um estudante de Engenharia de Software.
 
 <div align="center">
   <a href="https://github.com/jaoafonso">
@@ -6,7 +6,7 @@
   <img height="180em" src="https://readme-jaoafonso.vercel.app/api/top-langs/?username=jaoafonso&layout=compact&theme=dark"/>
 </div>
 
-## Technologies I use in my daily life
+## Tecnologias que eu uso em meus projetos
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="jaoafonso-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
