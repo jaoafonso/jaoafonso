@@ -9,13 +9,13 @@
 ## Tecnologias utilizadas em meus projetos:
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="jaoafonso-java" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg">
-  <img align="center" alt="jaoafonso-spring" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Light.svg">
-  <img align="center" alt="jaoafonso-mysql" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg">
-  <img align="center" alt="jaoafonso-html" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img align="center" alt="jaoafonso-css" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img align="center" alt="jaoafonso-js" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img align="center" alt="jaoafonso-git" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img align="center" alt="jaoafonso-java" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg">
+  <img align="center" alt="jaoafonso-spring" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Light.svg">
+  <img align="center" alt="jaoafonso-mysql" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg">
+  <img align="center" alt="jaoafonso-html" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img align="center" alt="jaoafonso-css" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img align="center" alt="jaoafonso-js" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img align="center" alt="jaoafonso-git" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
 </div>
 
 ##
