@@ -6,7 +6,7 @@
   <img height="180em" src="https://readme-jaoafonso.vercel.app/api/top-langs/?username=jaoafonso&layout=compact&theme=dark"/>
 </div>
 
-## Tecnologias que eu uso em meus projetos:
+## Tecnologias utilizadas em meus projetos:
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="jaoafonso-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
